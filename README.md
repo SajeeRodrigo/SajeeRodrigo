@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript.**
 
-- 🎓 I'm Undergraduate of University of Kelaniya | BSC. (Hons) in Management & Information Technology.
+- 🎓 I'm Undergraduate of University of Kelaniya | BSc. (Hons) in Management & Information Technology.
 
 - 👨‍💻 All of my projects are available on **[My Github Repositories](https://github.com/SajeeRodrigo)**
 
