@@ -5,7 +5,7 @@
 
 ## 🙋‍ About Me
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **FlutterDart Framework.**
 
 - 🎓 I'm Undergraduate of University of Kelaniya | BSc. (Hons) in Management & Information Technology.
 
