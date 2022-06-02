@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, Sajee Here.</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sajee Here.</h1>
 
 <h3 align="center">I'm passionate in IT.</h3
 
